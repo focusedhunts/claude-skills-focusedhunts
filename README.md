@@ -52,6 +52,9 @@ dart-detective/
 
 ## How to Use
 
+### Specific example from VS Code Skill execution with association to Flutter expert skills by Claude
+Perform a review of this project using the @.github/skills/dart-detective/SKILL.md and aligning with best practices of @.github/skills/flutter-expert/SKILL.md  
+
 ### Reactive Troubleshooting
 *"I'm getting a null pointer exception in my authentication code"*
 → Submit your code and the error. Dart Detective analyzes, identifies root cause, and provides fix.
