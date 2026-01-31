@@ -14,7 +14,7 @@ Expert code review and troubleshooting for Flutter Android apps. Finds bugs that
 - Security audits for password managers and sensitive apps
 - Performance analysis with actionable optimizations
 
-[View Dart Detective →](./DART_DETECTIVE.md)
+[View Dart Detective →](./DART_DETECTIVE_SKILL_README.md)
 
 ---
 
