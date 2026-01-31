@@ -1,6 +1,6 @@
 # Claude Skills by Focused Hunts
 
-Quality Claude Code skills for real-world problems.
+Quality Claude Code SKILLS for real-world problems.
 
 ## Available Skills
 
