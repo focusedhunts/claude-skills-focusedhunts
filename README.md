@@ -1,4 +1,4 @@
-# Claude Skills - Focused Hunts
+# Claude Skills by Focused Hunts
 
 Quality Claude Code skills for real-world problems.
 
